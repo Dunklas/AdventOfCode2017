@@ -7,11 +7,11 @@ import java.util.Arrays;
 import java.util.Set;
 import java.util.HashSet;
 
-public class One {
+public class Day4 {
 
     public static void main(String[] args) {
         if (args.length != 1) {
-            System.out.println("Missing filename");
+            System.err.println("Missing filename");
             return;
         }
 

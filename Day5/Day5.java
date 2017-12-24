@@ -5,7 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.io.IOException;
 
-public class One {
+public class Day5 {
 
     public static void main(String[] args) throws IOException {
 
